@@ -1,0 +1,7 @@
+D:\vs code\laptrinhweb\laptrinhweb.nkm\nkmlesson1\bin\Debug\nkmlesson1.exe.config
+D:\vs code\laptrinhweb\laptrinhweb.nkm\nkmlesson1\bin\Debug\nkmlesson1.exe
+D:\vs code\laptrinhweb\laptrinhweb.nkm\nkmlesson1\bin\Debug\nkmlesson1.pdb
+D:\vs code\laptrinhweb\laptrinhweb.nkm\nkmlesson1\obj\Debug\nkmlesson1.csproj.AssemblyReference.cache
+D:\vs code\laptrinhweb\laptrinhweb.nkm\nkmlesson1\obj\Debug\nkmlesson1.csproj.CoreCompileInputs.cache
+D:\vs code\laptrinhweb\laptrinhweb.nkm\nkmlesson1\obj\Debug\nkmlesson1.exe
+D:\vs code\laptrinhweb\laptrinhweb.nkm\nkmlesson1\obj\Debug\nkmlesson1.pdb
