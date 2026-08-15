@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("nkmlesson1")]
+[assembly: AssemblyTitle("nkmbai4")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("nkmlesson1")]
+[assembly: AssemblyProduct("nkmbai4")]
 [assembly: AssemblyCopyright("Copyright ©  2026")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("8f20b8b9-28a2-45e0-b49e-74f2ce79517b")]
+[assembly: Guid("a00b5542-2927-4f47-ad6b-916a153dddc0")]
 
 // Version information for an assembly consists of the following four values:
 //

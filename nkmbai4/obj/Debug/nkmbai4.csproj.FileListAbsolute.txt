@@ -1,0 +1,7 @@
+D:\vs code\laptrinhweb\laptrinhweb.nkm\nkmbai4\bin\Debug\nkmbai4.exe.config
+D:\vs code\laptrinhweb\laptrinhweb.nkm\nkmbai4\bin\Debug\nkmbai4.exe
+D:\vs code\laptrinhweb\laptrinhweb.nkm\nkmbai4\bin\Debug\nkmbai4.pdb
+D:\vs code\laptrinhweb\laptrinhweb.nkm\nkmbai4\obj\Debug\nkmbai4.csproj.AssemblyReference.cache
+D:\vs code\laptrinhweb\laptrinhweb.nkm\nkmbai4\obj\Debug\nkmbai4.csproj.CoreCompileInputs.cache
+D:\vs code\laptrinhweb\laptrinhweb.nkm\nkmbai4\obj\Debug\nkmbai4.exe
+D:\vs code\laptrinhweb\laptrinhweb.nkm\nkmbai4\obj\Debug\nkmbai4.pdb
