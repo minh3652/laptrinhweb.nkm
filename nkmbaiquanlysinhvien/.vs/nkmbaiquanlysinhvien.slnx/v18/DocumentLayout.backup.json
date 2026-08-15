@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\vs code\\laptrinhweb\\laptrinhweb.nkm\\nkmbaiquanlysinhvien\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96A3ABCE-5526-4DF4-892B-7E01AF31F64F}|nkmbaiquanlysinhvien.csproj|d:\\vs code\\laptrinhweb\\laptrinhweb.nkm\\nkmbaiquanlysinhvien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96A3ABCE-5526-4DF4-892B-7E01AF31F64F}|nkmbaiquanlysinhvien.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96A3ABCE-5526-4DF4-892B-7E01AF31F64F}|nkmbaiquanlysinhvien.csproj|D:\\vs code\\laptrinhweb\\laptrinhweb.nkm\\nkmbaiquanlysinhvien\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96A3ABCE-5526-4DF4-892B-7E01AF31F64F}|nkmbaiquanlysinhvien.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "student.cs",
+              "DocumentMoniker": "D:\\vs code\\laptrinhweb\\laptrinhweb.nkm\\nkmbaiquanlysinhvien\\student.cs",
+              "RelativeDocumentMoniker": "student.cs",
+              "ToolTip": "D:\\vs code\\laptrinhweb\\laptrinhweb.nkm\\nkmbaiquanlysinhvien\\student.cs",
+              "RelativeToolTip": "student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T08:02:15.296Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\vs code\\laptrinhweb\\laptrinhweb.nkm\\nkmbaiquanlysinhvien\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\vs code\\laptrinhweb\\laptrinhweb.nkm\\nkmbaiquanlysinhvien\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwGwCAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T08:01:35.214Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
