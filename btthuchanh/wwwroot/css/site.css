@@ -1,0 +1,168 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.form-floating > .form-control-plaintext::placeholder, .form-floating > .form-control::placeholder {
+  color: var(--bs-secondary-color);
+  text-align: end;
+}
+
+.form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
+  text-align: start;
+}
+.product-list {
+    display: flex;
+    gap: 18px;
+    width: 85%;
+    margin: auto;
+}
+
+.product {
+    border: 1px solid #ddd;
+    text-align: center;
+    padding: 10px;
+}
+
+    .product img {
+        width: 100%;
+        height: 150px;
+        object-fit: contain;
+    }
+
+    .product h3 {
+        font-size: 16px;
+        font-weight: normal;
+    }
+
+.navbar .container-fluid {
+    margin: 0;
+    padding-left: 15px;
+    justify-content: flex-start ;
+}
+
+.navbar-nav {
+    display: flex ;
+    flex-direction: row ;
+    margin-left: 0 ;
+    margin-right: 0 ;
+}
+
+.navbar-nav .nav-link {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+/* ===== BANNER ===== */
+
+.banner {
+    width: 85%;
+    height: 250px;
+    margin: 0 auto 10px auto;
+    background-color: #214b87;
+    position: relative;
+    overflow: hidden;
+    color: white;
+    text-align: center;
+}
+
+/* Phần chứa Microsoft Azure + icon */
+.minh {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    padding-top: 45px;
+}
+
+.banner-title {
+    font-size: 30px;
+    
+}
+
+.banner-line {
+    width: 2px;
+    height: 45px;
+    background-color: white;
+}
+
+.banner-icons {
+    display: flex;
+    gap: 25px;
+}
+
+    .banner-icons div {
+        width: 42px;
+        height: 42px;
+        background-color: #eeeeee;
+        color: #2673b8;
+        border-radius: 5px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 18px;
+        font-weight: bold;
+    }
+
+.banner-text {
+    position: absolute;
+    top: 145px;
+    left: 0;
+    right: 0;
+    font-size: 12px;
+    line-height: 18px;
+}
+
+.learn-more {
+    position: absolute;
+    top: 190px;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 11px;
+    padding: 3px 8px;
+    background-color: white;
+    color: black;
+    border: 1px solid #aaa;
+}
+
+.banner-dots {
+    position: absolute;
+    bottom: 8px;
+    left: 0;
+    right: 0;
+    font-size: 12px;
+}
+
+.banner-arrow {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 35px;
+    color: white;
+}
+
+.banner-left {
+    left: 30px;
+}
+
+.banner-right {
+    right: 30px;
+}

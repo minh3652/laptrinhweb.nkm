@@ -1,0 +1,27 @@
+﻿<h2>Quản lý sản phẩm</h2>
+<table class="table">
+    <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Price</th>
+        <th>Created At</th>
+        <th>Image</th>
+        <th>Actions</th>
+    </tr>
+    @foreach (var product in ViewBag.Products)
+    {
+        <tr>
+            <td>@product.Id</td>
+            <td>@product.Name</td>
+            <td>@product.Price</td>
+            <td>@product.CreatedAt</td>
+            <td>
+                <img src="@product.Image" width="50" />
+            </td>
+            <td>
+                <button class="btn btn-success">View</button>
+            </td>
+        </tr>
+    }
+
+</table>	

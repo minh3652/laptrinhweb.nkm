@@ -1,0 +1,63 @@
+﻿@model List<btthuchanh.Models.Product>
+<!-- BANNER -->
+<!-- BANNER -->
+<div class="banner">
+
+    <div class="minh">
+
+        <div class="banner-title">
+            Microsoft Azure
+        </div>
+
+        <div class="banner-line"></div>
+
+        <div class="banner-icons">
+            <div>☁</div>
+            <div>◇</div>
+            <div>DB</div>
+            <div>▦</div>
+        </div>
+
+    </div>
+
+    <div class="banner-text">
+        Learn how Microsoft's Azure cloud platform allows you to build, deploy, and
+        <br />
+        scale web apps.
+    </div>
+
+    <button class="learn-more">
+        Learn More
+    </button>
+
+    <div class="banner-dots">
+        ○ ○ ●
+    </div>
+
+    <div class="banner-arrow banner-left">
+        ‹
+    </div>
+
+    <div class="banner-arrow banner-right">
+        ›
+    </div>
+
+</div>
+
+
+<h2>Danh sách sản phẩm</h2>
+
+<div class="product-list">
+
+    @foreach (var product in Model)
+    {
+        <div class="product">
+
+            <img src="@product.Image" />
+
+            <h3>@product.Name</h3>
+
+        </div>
+    }
+
+</div>
