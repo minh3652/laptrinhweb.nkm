@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "NKMBTH4/1.0.0": {
+        "runtime": {
+          "NKMBTH4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NKMBTH4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
