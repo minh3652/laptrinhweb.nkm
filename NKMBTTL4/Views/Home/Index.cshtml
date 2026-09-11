@@ -1,0 +1,174 @@
+﻿@model NKMBTTL4.Models.HomeViewModel
+
+
+@{
+    ViewData["Title"] = "Trang chủ";
+}
+
+
+
+<div class="home-container">
+
+
+    <!-- ================================================= -->
+    <!-- CỘT TRÁI -->
+    <!-- ================================================= -->
+
+    <aside class="left-column">
+
+
+        <!-- ============================================== -->
+        <!-- PARTIAL VIEW -->
+        <!-- ============================================== -->
+        @await Html.PartialAsync(
+                    "_CategoryPartial",
+                    Model.Categories
+                )
+
+
+
+        <!-- ============================================== -->
+        <!-- BANNER -->
+        <!-- ============================================== -->
+
+        <div class="advertisement">
+
+
+            <img src="~/images/banner.jpg"
+                 alt="Banner quảng cáo"
+                 onerror="this.style.display='none'; this.parentElement.classList.add('show-fallback');" />
+
+
+            <div class="banner-fallback">
+
+
+                <div class="banner-big">
+
+                    ĐỒ CŨ
+
+                </div>
+
+
+                <div class="banner-medium">
+
+                    LẤY MỚI
+
+                </div>
+
+
+                <div class="banner-small">
+
+                    Khuyến mãi mỗi ngày
+
+                </div>
+
+
+            </div>
+
+
+        </div>
+
+
+    </aside>
+
+
+
+
+    <!-- ================================================= -->
+    <!-- CỘT PHẢI -->
+    <!-- ================================================= -->
+
+    <section class="right-column">
+
+
+
+        <!-- ================================================= -->
+        <!-- SẢN PHẨM MỚI NHẤT -->
+        <!-- ================================================= -->
+
+        <section class="product-section">
+
+
+            <div class="section-title">
+
+                Sản phẩm mới nhất
+
+            </div>
+
+
+
+            <div class="product-grid">
+
+
+                @foreach (var product in Model.LatestProducts)
+                {
+                    <a class="product-card"
+                       asp-controller="Product"
+                       asp-action="Details"
+                       asp-route-id="@product.Id">
+
+
+                        <div class="product-image">
+
+
+                            <img src="@product.ImageUrl"
+                                 alt="@product.Name" />
+
+
+                        </div>
+
+
+
+                        <div class="product-name">
+
+                            @product.Name
+
+                        </div>
+
+
+
+                        <div class="product-price">
+
+                            @product.Price.ToString("N0") đ
+
+                        </div>
+
+
+                    </a>
+                }
+
+
+            </div>
+
+
+        </section>
+
+
+
+
+        <!-- ================================================= -->
+        <!-- SẢN PHẨM BÁN CHẠY -->
+        <!-- VIEW COMPONENT -->
+        <!-- ================================================= -->
+
+        <section class="product-section hot-section">
+
+
+            <div class="section-title">
+
+                Sản phẩm bán chạy
+
+            </div>
+
+
+
+            @await Component.InvokeAsync("HotProduct")
+
+
+        </section>
+
+
+    </section>
+
+
+</div>

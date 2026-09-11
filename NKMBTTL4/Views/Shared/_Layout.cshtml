@@ -1,0 +1,190 @@
+﻿<!DOCTYPE html>
+
+<html lang="vi">
+
+
+<head>
+
+
+    <meta charset="utf-8" />
+
+
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0" />
+
+
+    <title>
+        @ViewData["Title"] - NKMBTTL4
+    </title>
+
+
+    <link rel="stylesheet"
+          href="~/css/site.css"
+          asp-append-version="true" />
+
+
+</head>
+
+
+
+<body>
+
+
+    <!-- ================================================= -->
+    <!-- HEADER -->
+    <!-- ================================================= -->
+
+    <header class="topbar">
+
+
+        <div class="container nav-container">
+
+
+            <!-- LOGO -->
+
+            <a class="logo"
+               asp-controller="Home"
+               asp-action="Index">
+
+                DEMO LAB
+
+            </a>
+
+
+
+            <!-- MENU -->
+
+            <nav class="navigation">
+
+
+                <a asp-controller="Home"
+                   asp-action="Index">
+
+                    Trang chủ
+
+                </a>
+
+
+                <a href="#gioi-thieu">
+
+                    Giới thiệu
+
+                </a>
+
+
+                <a href="#lien-he">
+
+                    Liên hệ
+
+                </a>
+
+
+                <a asp-controller="Product"
+                   asp-action="Index">
+
+                    Sản phẩm
+
+                </a>
+
+
+            </nav>
+
+
+        </div>
+
+
+    </header>
+
+
+
+
+    <!-- ================================================= -->
+    <!-- MAIN -->
+    <!-- ================================================= -->
+
+    <main class="container main-content">
+
+
+        @RenderBody()
+
+
+    </main>
+
+
+
+
+    <!-- ================================================= -->
+    <!-- FOOTER -->
+    <!-- ================================================= -->
+
+    <footer class="footer container">
+
+
+        <!-- GIỚI THIỆU -->
+
+        <div class="footer-column"
+             id="gioi-thieu">
+
+
+            <h3>
+
+                GIỚI THIỆU
+
+            </h3>
+
+
+            <p>
+
+                Lorem ipsum dolor sit amet consectetur
+                adipisicing elit. Debitis ab suscipit deserunt
+                mollitia reiciendis, nobis iure aliquam vel et
+                laboriosam ducimus veritatis corporis est.
+
+            </p>
+
+
+        </div>
+
+
+
+        <!-- LIÊN HỆ -->
+
+        <div class="footer-column"
+             id="lien-he">
+
+
+            <h3>
+
+                LIÊN HỆ
+
+            </h3>
+
+
+            <p>
+
+                Lorem ipsum dolor sit amet consectetur
+                adipisicing elit. Odio amet suscipit quasi
+                quisquam impedit magni molestias. Dolores,
+                aliquid commodi ut esse eos voluptatem nisi
+                facilis dolorem.
+
+            </p>
+
+
+        </div>
+
+
+    </footer>
+
+
+
+    @await RenderSectionAsync(
+        "Scripts",
+        required: false
+    )
+
+
+</body>
+
+
+</html>

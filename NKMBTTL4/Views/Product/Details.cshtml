@@ -1,0 +1,65 @@
+﻿@model NKMBTTL4.Models.Product
+
+
+@{
+    ViewData["Title"] = "Chi tiết sản phẩm";
+}
+
+
+
+<div class="details-container">
+
+
+    <div class="details-image">
+
+
+        <img src="@Model.ImageUrl"
+             alt="@Model.Name" />
+
+
+    </div>
+
+
+
+    <div class="details-info">
+
+
+        <h1>
+
+            @Model.Name
+
+        </h1>
+
+
+
+        <div class="details-price">
+
+            @Model.Price.ToString("N0") đ
+
+        </div>
+
+
+
+        <p>
+
+            Đây là trang chi tiết sản phẩm của
+            website Demo Lab được xây dựng bằng
+            ASP.NET Core MVC.
+
+        </p>
+
+
+
+        <a class="back-button"
+           asp-controller="Product"
+           asp-action="Index">
+
+            ← Quay lại danh sách
+
+        </a>
+
+
+    </div>
+
+
+</div>

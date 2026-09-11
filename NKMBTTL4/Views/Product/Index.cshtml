@@ -1,0 +1,64 @@
+﻿@model IEnumerable<NKMBTTL4.Models.Product>
+
+
+@{
+    ViewData["Title"] = "Sản phẩm";
+}
+
+
+
+<div class="product-page">
+
+
+    <div class="page-title">
+
+        Danh sách sản phẩm
+
+    </div>
+
+
+
+    <div class="all-products">
+
+
+        @foreach (var product in Model)
+        {
+            <a class="product-card"
+               asp-action="Details"
+               asp-route-id="@product.Id">
+
+
+                <div class="product-image">
+
+
+                    <img src="@product.ImageUrl"
+                         alt="@product.Name" />
+
+
+                </div>
+
+
+
+                <div class="product-name">
+
+                    @product.Name
+
+                </div>
+
+
+
+                <div class="product-price">
+
+                    @product.Price.ToString("N0") đ
+
+                </div>
+
+
+            </a>
+        }
+
+
+    </div>
+
+
+</div>

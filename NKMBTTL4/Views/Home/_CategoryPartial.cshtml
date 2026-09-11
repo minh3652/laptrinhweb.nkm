@@ -1,0 +1,37 @@
+﻿@model IEnumerable<NKMBTTL4.Models.Category>
+
+
+<div class="category-box">
+
+
+    <!-- TIÊU ĐỀ -->
+
+    <div class="category-title">
+
+        Danh mục sản phẩm
+
+    </div>
+
+
+
+    <!-- DANH SÁCH -->
+
+    <ul class="category-list">
+
+        @foreach (var category in Model)
+        {
+            <li>
+
+                <a href="#">
+
+                    @category.Name
+
+                </a>
+
+            </li>
+        }
+
+    </ul>
+
+
+</div>
