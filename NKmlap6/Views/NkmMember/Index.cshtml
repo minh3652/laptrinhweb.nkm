@@ -1,0 +1,49 @@
+﻿@model IEnumerable<NKmlap6_.Models.NkmMember>
+
+@{
+    ViewData["Title"] = "Danh sach member";
+}
+
+<h1>Danh sach member</h1>
+
+<p>
+    <a asp-action="NkmCreate">Create New</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>UserName</th>
+            <th>Password</th>
+            <th>Email</th>
+            <th>Phone</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var member in Model)
+        {
+            <tr>
+                <td>@member.NkmMemberId</td>
+                <td>@member.NkmMemberUserName</td>
+                <td>@member.NkmMemberPassword</td>
+                <td>@member.NkmMemberEmail</td>
+                <td>@member.NkmMemberPhone</td>
+                <td>
+                    <a asp-action="NkmEdit" asp-route-id="@member.NkmMemberId">
+                        Edit
+                    </a>
+                    <a asp-action="NkmDelete" asp-route-id="@member.NkmMemberId">
+                        Delete
+                    </a>
+                    <a asp-action="NkmCreate" asp-route-id="@member.NkmMemberId">
+                        Create
+
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
