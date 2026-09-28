@@ -1,0 +1,53 @@
+﻿@model List<nkmlab7.Models.Product>
+
+@{
+    ViewData["Title"] = "Danh sách sản phẩm";
+}
+
+<h2>Danh sách sản phẩm</h2>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Thêm sản phẩm</a>
+</p>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Ảnh</th>
+            <th>Tên sản phẩm</th>
+            <th>Giá</th>
+            <th>Giá khuyến mãi</th>
+            <th>Danh mục</th>
+            <th>Thao tác</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>
+                    @if (!string.IsNullOrEmpty(item.Image))
+                    {
+                        <img src="@item.Image" width="80" />
+                    }
+                </td>
+                <td>@item.Name</td>
+                <td>@item.Price.ToString("N0")</td>
+                <td>@item.SalePrice.ToString("N0")</td>
+                <td>@item.Category?.Name</td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@item.Id"
+                       class="btn btn-info">Chi tiết</a>
+
+                    <a asp-action="Edit" asp-route-id="@item.Id"
+                       class="btn btn-warning">Sửa</a>
+
+                    <a asp-action="Delete" asp-route-id="@item.Id"
+                       class="btn btn-danger">Xóa</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

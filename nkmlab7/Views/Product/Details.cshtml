@@ -1,0 +1,48 @@
+﻿@model nkmlab7.Models.Product
+
+@{
+    ViewData["Title"] = "Chi tiết sản phẩm";
+}
+
+<h2>Chi tiết sản phẩm</h2>
+
+<table class="table table-bordered">
+    <tr>
+        <th>ID</th>
+        <td>@Model.Id</td>
+    </tr>
+    <tr>
+        <th>Tên sản phẩm</th>
+        <td>@Model.Name</td>
+    </tr>
+    <tr>
+        <th>Ảnh</th>
+        <td>
+            @if (!string.IsNullOrEmpty(Model.Image))
+            {
+                <img src="@Model.Image" width="200" />
+            }
+        </td>
+    </tr>
+    <tr>
+        <th>Giá</th>
+        <td>@Model.Price.ToString("N0")</td>
+    </tr>
+    <tr>
+        <th>Giá khuyến mãi</th>
+        <td>@Model.SalePrice.ToString("N0")</td>
+    </tr>
+    <tr>
+        <th>Mô tả</th>
+        <td>@Model.Description</td>
+    </tr>
+    <tr>
+        <th>Danh mục</th>
+        <td>@Model.Category?.Name</td>
+    </tr>
+</table>
+
+<a asp-action="Edit" asp-route-id="@Model.Id"
+   class="btn btn-warning">Sửa</a>
+
+<a asp-action="Index" class="btn btn-secondary">Quay lại</a>

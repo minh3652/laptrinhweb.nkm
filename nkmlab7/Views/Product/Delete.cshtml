@@ -1,0 +1,26 @@
+﻿@model nkmlab7.Models.Product
+
+@{
+    ViewData["Title"] = "Xóa sản phẩm";
+}
+
+<h2>Xóa sản phẩm</h2>
+
+<div class="alert alert-warning">
+    Bạn có chắc chắn muốn xóa sản phẩm này không?
+</div>
+
+<p><strong>Tên sản phẩm:</strong> @Model.Name</p>
+<p><strong>Giá:</strong> @Model.Price.ToString("N0")</p>
+
+@if (!string.IsNullOrEmpty(Model.Image))
+{
+    <img src="@Model.Image" width="150" />
+}
+
+<form asp-action="Delete" method="post">
+    <input type="hidden" asp-for="Id" />
+
+    <button type="submit" class="btn btn-danger">Xác nhận xóa</button>
+    <a asp-action="Index" class="btn btn-secondary">Hủy</a>
+</form>
