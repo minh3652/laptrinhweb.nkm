@@ -1,0 +1,249 @@
+﻿
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<style>
+    .banner {
+        height: 250px;
+        background: linear-gradient(to right, #68217a, #702482);
+        color: white;
+        position: relative;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+    }
+
+    .banner-content {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 25px;
+        flex-wrap: wrap;
+    }
+
+    .banner-content h2 {
+        font-size: 30px;
+        margin: 0;
+    }
+
+    .banner-content img {
+        width: 55px;
+        height: 65px;
+        object-fit: contain;
+    }
+
+    .banner-divider {
+        height: 45px;
+        border-left: 2px solid #b9a2c0;
+    }
+
+    .banner-caption {
+        position: absolute;
+        bottom: 32px;
+        left: 0;
+        right: 0;
+        font-size: 10px;
+    }
+
+    .banner-caption a {
+        background: white;
+        color: #333;
+        padding: 5px 10px;
+        margin-left: 8px;
+        text-decoration: none;
+    }
+
+    .banner-arrow {
+        position: absolute;
+        top: 45%;
+        color: #c8a9d0;
+        font-size: 28px;
+        font-weight: bold;
+        text-decoration: none;
+    }
+
+    .banner-arrow.left {
+        left: 35px;
+    }
+
+    .banner-arrow.right {
+        right: 35px;
+    }
+
+    .banner-dots {
+        position: absolute;
+        bottom: 12px;
+        font-size: 12px;
+        color: #ddd;
+    }
+
+    .info-columns {
+        margin-top: 12px;
+    }
+
+    .info-columns h3 {
+        font-size: 20px;
+        margin-top: 0;
+    }
+
+    .info-columns ul {
+        padding-left: 20px;
+        font-size: 12px;
+    }
+
+    .info-columns a {
+        color: #337ab7;
+        text-decoration: none;
+    }
+
+    .info-columns a:hover {
+        text-decoration: underline;
+    }
+</style>
+
+<div id="myCarousel" class="carousel slide" data-ride="carousel">
+    <div class="carousel-inner">
+        <div class="item active">
+            <div class="banner">
+                <div class="banner-content">
+                    <a href="https://visualstudio.microsoft.com/"
+                       style="color:white;text-decoration:none;">
+                        <h2>
+                            <span style="font-weight:bold;">◀</span>
+                            Visual Studio
+                        </h2>
+                    </a>
+
+                    <div class="banner-divider"></div>
+
+                    <a href="https://html.spec.whatwg.org/" target="_blank">
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"
+                             alt="HTML5" />
+                    </a>
+
+                    <a href="https://www.w3.org/Style/CSS/" target="_blank">
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"
+                             alt="CSS3" />
+                    </a>
+
+                    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+                       target="_blank">
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"
+                             alt="JavaScript" />
+                    </a>
+                </div>
+
+                <a href="#myCarousel" class="banner-arrow left"
+                   onclick="return false;">‹</a>
+
+                <a href="#myCarousel" class="banner-arrow right"
+                   onclick="return false;">›</a>
+
+                <div class="banner-caption">
+                    There are powerful new features in Visual Studio for building modern web apps.
+                    <a href="https://visualstudio.microsoft.com/" target="_blank">
+                        Learn More
+                    </a>
+                </div>
+
+                <div class="banner-dots">○ ● ○</div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row info-columns">
+    <div class="col-md-3">
+        <h3>Application uses</h3>
+        <ul>
+            <li>
+                <a href="https://learn.microsoft.com/aspnet/core/mvc/overview"
+                   target="_blank">Sample pages using ASP.NET Core MVC</a>
+            </li>
+            <li>
+                <a href="https://getbootstrap.com/"
+                   target="_blank">Theming using Bootstrap</a>
+            </li>
+        </ul>
+    </div>
+
+    <div class="col-md-3">
+        <h3>How to</h3>
+        <ul>
+            <li>
+                <a href="https://learn.microsoft.com/aspnet/core/mvc/controllers/actions"
+                   target="_blank">Add a Controller and View</a>
+            </li>
+            <li>
+                <a href="https://learn.microsoft.com/aspnet/core/security/app-secrets"
+                   target="_blank">Manage User Secrets using Secret Manager</a>
+            </li>
+            <li>
+                <a href="https://learn.microsoft.com/aspnet/core/fundamentals/logging"
+                   target="_blank">Use logging to log a message</a>
+            </li>
+            <li>
+                <a href="https://learn.microsoft.com/nuget/"
+                   target="_blank">Add packages using NuGet</a>
+            </li>
+            <li>
+                <a href="https://learn.microsoft.com/aspnet/core/host-and-deploy/"
+                   target="_blank">Target development, staging or production environment</a>
+            </li>
+        </ul>
+    </div>
+
+    <div class="col-md-3">
+        <h3>Overview</h3>
+        <ul>
+            <li>
+                <a href="https://learn.microsoft.com/aspnet/core/introduction-to-aspnet-core"
+                   target="_blank">Conceptual overview of what is ASP.NET Core</a>
+            </li>
+            <li>
+                <a href="https://learn.microsoft.com/aspnet/core/fundamentals/"
+                   target="_blank">Fundamentals of ASP.NET Core such as Startup and middleware</a>
+            </li>
+            <li>
+                <a href="https://learn.microsoft.com/aspnet/core/data/"
+                   target="_blank">Working with Data</a>
+            </li>
+            <li>
+                <a href="https://learn.microsoft.com/aspnet/core/security/"
+                   target="_blank">Security</a>
+            </li>
+            <li>
+                <a href="https://learn.microsoft.com/aspnet/core/client-side/"
+                   target="_blank">Client side development</a>
+            </li>
+            <li>
+                <a href="https://learn.microsoft.com/dotnet/core/deploying/"
+                   target="_blank">Develop on different platforms</a>
+            </li>
+            <li>
+                <a href="https://learn.microsoft.com/aspnet/core/"
+                   target="_blank">Read more on the documentation</a>
+            </li>
+        </ul>
+    </div>
+
+    <div class="col-md-3">
+        <h3>Run &amp; Deploy</h3>
+        <ul>
+            <li>
+                <a href="https://learn.microsoft.com/aspnet/core/tutorials/first-mvc-app/start-mvc"
+                   target="_blank">Run your app</a>
+            </li>
+            <li>
+                <a href="https://learn.microsoft.com/ef/core/"
+                   target="_blank">Run tools such as EF migrations and more</a>
+            </li>
+            <li>
+                <a href="https://learn.microsoft.com/aspnet/core/host-and-deploy/azure-apps/"
+                   target="_blank">Publish to Microsoft Azure Web Apps</a>
+            </li>
+        </ul>
+    </div>
+</div>

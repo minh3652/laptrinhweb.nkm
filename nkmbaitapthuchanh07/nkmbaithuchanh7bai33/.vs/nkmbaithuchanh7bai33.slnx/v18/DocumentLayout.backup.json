@@ -1,0 +1,163 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\vs code\\laptrinhweb\\laptrinhweb.nkm\\nkmbaithuchanh7bai33\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49ED416D-0EDD-3480-2BF0-CF5A865970DB}|nkmbaithuchanh7bai33.csproj|d:\\vs code\\laptrinhweb\\laptrinhweb.nkm\\nkmbaithuchanh7bai33\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49ED416D-0EDD-3480-2BF0-CF5A865970DB}|nkmbaithuchanh7bai33.csproj|solutionrelative:areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49ED416D-0EDD-3480-2BF0-CF5A865970DB}|nkmbaithuchanh7bai33.csproj|d:\\vs code\\laptrinhweb\\laptrinhweb.nkm\\nkmbaithuchanh7bai33\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49ED416D-0EDD-3480-2BF0-CF5A865970DB}|nkmbaithuchanh7bai33.csproj|solutionrelative:areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49ED416D-0EDD-3480-2BF0-CF5A865970DB}|nkmbaithuchanh7bai33.csproj|d:\\vs code\\laptrinhweb\\laptrinhweb.nkm\\nkmbaithuchanh7bai33\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49ED416D-0EDD-3480-2BF0-CF5A865970DB}|nkmbaithuchanh7bai33.csproj|solutionrelative:areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49ED416D-0EDD-3480-2BF0-CF5A865970DB}|nkmbaithuchanh7bai33.csproj|d:\\vs code\\laptrinhweb\\laptrinhweb.nkm\\nkmbaithuchanh7bai33\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49ED416D-0EDD-3480-2BF0-CF5A865970DB}|nkmbaithuchanh7bai33.csproj|solutionrelative:areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49ED416D-0EDD-3480-2BF0-CF5A865970DB}|nkmbaithuchanh7bai33.csproj|d:\\vs code\\laptrinhweb\\laptrinhweb.nkm\\nkmbaithuchanh7bai33\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49ED416D-0EDD-3480-2BF0-CF5A865970DB}|nkmbaithuchanh7bai33.csproj|solutionrelative:areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49ED416D-0EDD-3480-2BF0-CF5A865970DB}|nkmbaithuchanh7bai33.csproj|d:\\vs code\\laptrinhweb\\laptrinhweb.nkm\\nkmbaithuchanh7bai33\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49ED416D-0EDD-3480-2BF0-CF5A865970DB}|nkmbaithuchanh7bai33.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49ED416D-0EDD-3480-2BF0-CF5A865970DB}|nkmbaithuchanh7bai33.csproj|d:\\vs code\\laptrinhweb\\laptrinhweb.nkm\\nkmbaithuchanh7bai33\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49ED416D-0EDD-3480-2BF0-CF5A865970DB}|nkmbaithuchanh7bai33.csproj|solutionrelative:areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49ED416D-0EDD-3480-2BF0-CF5A865970DB}|nkmbaithuchanh7bai33.csproj|d:\\vs code\\laptrinhweb\\laptrinhweb.nkm\\nkmbaithuchanh7bai33\\areas\\admin\\views\\shared\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49ED416D-0EDD-3480-2BF0-CF5A865970DB}|nkmbaithuchanh7bai33.csproj|solutionrelative:areas\\admin\\views\\shared\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\vs code\\laptrinhweb\\laptrinhweb.nkm\\nkmbaithuchanh7bai33\\Areas\\admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "D:\\vs code\\laptrinhweb\\laptrinhweb.nkm\\nkmbaithuchanh7bai33\\Areas\\admin\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "Areas\\admin\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-17T08:03:44.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\vs code\\laptrinhweb\\laptrinhweb.nkm\\nkmbaithuchanh7bai33\\Areas\\admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Areas\\admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\vs code\\laptrinhweb\\laptrinhweb.nkm\\nkmbaithuchanh7bai33\\Areas\\admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Areas\\admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-17T08:06:09.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "D:\\vs code\\laptrinhweb\\laptrinhweb.nkm\\nkmbaithuchanh7bai33\\Areas\\admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Areas\\admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "D:\\vs code\\laptrinhweb\\laptrinhweb.nkm\\nkmbaithuchanh7bai33\\Areas\\admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Areas\\admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T08:03:22.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\vs code\\laptrinhweb\\laptrinhweb.nkm\\nkmbaithuchanh7bai33\\Areas\\admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Areas\\admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\vs code\\laptrinhweb\\laptrinhweb.nkm\\nkmbaithuchanh7bai33\\Areas\\admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Areas\\admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T08:03:10.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\vs code\\laptrinhweb\\laptrinhweb.nkm\\nkmbaithuchanh7bai33\\Areas\\admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "D:\\vs code\\laptrinhweb\\laptrinhweb.nkm\\nkmbaithuchanh7bai33\\Areas\\admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Areas\\admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-17T08:04:14.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\vs code\\laptrinhweb\\laptrinhweb.nkm\\nkmbaithuchanh7bai33\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\vs code\\laptrinhweb\\laptrinhweb.nkm\\nkmbaithuchanh7bai33\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T08:06:58.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\vs code\\laptrinhweb\\laptrinhweb.nkm\\nkmbaithuchanh7bai33\\Areas\\admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Areas\\admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\vs code\\laptrinhweb\\laptrinhweb.nkm\\nkmbaithuchanh7bai33\\Areas\\admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Areas\\admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-17T08:06:26.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "admin.cshtml",
+              "DocumentMoniker": "D:\\vs code\\laptrinhweb\\laptrinhweb.nkm\\nkmbaithuchanh7bai33\\Areas\\admin\\Views\\Shared\\admin.cshtml",
+              "RelativeDocumentMoniker": "Areas\\admin\\Views\\Shared\\admin.cshtml",
+              "ToolTip": "D:\\vs code\\laptrinhweb\\laptrinhweb.nkm\\nkmbaithuchanh7bai33\\Areas\\admin\\Views\\Shared\\admin.cshtml",
+              "RelativeToolTip": "Areas\\admin\\Views\\Shared\\admin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-17T08:04:53.539Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

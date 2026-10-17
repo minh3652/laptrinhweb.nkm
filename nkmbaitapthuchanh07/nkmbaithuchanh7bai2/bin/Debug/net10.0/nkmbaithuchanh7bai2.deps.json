@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "nkmbaithuchanh7bai2/1.0.0": {
+        "runtime": {
+          "nkmbaithuchanh7bai2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "nkmbaithuchanh7bai2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
