@@ -1,0 +1,402 @@
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\bin\Debug\net10.0\appsettings.json
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\bin\Debug\net10.0\nkmTH2lab4.staticwebassets.runtime.json
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\bin\Debug\net10.0\nkmTH2lab4.staticwebassets.endpoints.json
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\bin\Debug\net10.0\nkmTH2lab4.exe
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\bin\Debug\net10.0\nkmTH2lab4.deps.json
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\bin\Debug\net10.0\nkmTH2lab4.runtimeconfig.json
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\bin\Debug\net10.0\nkmTH2lab4.dll
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\bin\Debug\net10.0\nkmTH2lab4.pdb
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\bin\Debug\net10.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\bin\Debug\net10.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\bin\Debug\net10.0\System.Drawing.Common.dll
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\bin\Debug\net10.0\System.Runtime.Caching.dll
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\bin\Debug\net10.0\System.Security.Permissions.dll
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\bin\Debug\net10.0\System.Windows.Extensions.dll
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\bin\Debug\net10.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\bin\Debug\net10.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\bin\Debug\net10.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\bin\Debug\net10.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\bin\Debug\net10.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\bin\Debug\net10.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\bin\Debug\net10.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\bin\Debug\net10.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\bin\Debug\net10.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\nkmTH2lab4.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\nkmTH2lab4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\nkmTH2lab4.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\nkmTH2lab4.AssemblyInfo.cs
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\nkmTH2lab4.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\nkmTH2lab4.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\nkmTH2lab4.RazorAssemblyInfo.cache
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\nkmTH2lab4.RazorAssemblyInfo.cs
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\scopedcss\bundle\nkmTH2lab4.styles.css
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\scopedcss\projectbundle\nkmTH2lab4.bundle.scp.css
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\fd0it0wp7k-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\0tf8472xq2-{0}-mf45fbw2f4-mf45fbw2f4.gz
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\2x97cd5bzs-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\xximf6rra9-{0}-dqle62frat-dqle62frat.gz
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\l15xrdnp67-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\mhkao9gslz-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\l2kyyzfdek-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\uqaqoo24ma-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\ub86bh51ld-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\9jckiqqvbs-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\460o9dmet6-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\a74fpbebh0-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\y1eu1u8gco-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\i6ygxoixqo-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\gdtaxrt8rf-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\hrf37yw39c-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\b4do23r7fw-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\pbnukxgfcx-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\tm956oj0a0-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\pqzdydbeqs-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\4fc6fhko2r-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\zwigdam7q0-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\7q7pxo90gf-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\g8agr3iw00-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\euja78ffqf-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\q90pbgmr1f-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\938449lcaq-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\5enk2jf7jl-{0}-06098lyss8-06098lyss8.gz
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\voccp0w617-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\vprk4hnyfl-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\raq9iwcoht-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\9ov7anz47x-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\l613ogjbfm-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\c0cf76m3n5-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\r160zeuumg-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\zzzerk1zdn-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\4laou6g9f8-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\mvgsg4duzs-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\pdmzdmm1py-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\r03t1mp1bc-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\6e5mvrx7fa-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\p47bu4j328-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\fe2vmmf8b5-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\6dvvuq6ydh-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\7azuljswh6-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\jx9u2u7exj-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\24zpvgsofn-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\r83hf64c02-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\ghx4imjffu-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\5qznfjfxbe-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\guvwgl0c4r-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\niapf3nykg-{0}-356vix0kms-356vix0kms.gz
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\wfdti3bu6q-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\h6lzxjw9dt-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\ink4seq9s7-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\z7jr3yt316-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\7hupcfs0s0-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\8ofnv4hncg-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\t7z4hxyx95-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\r9571k74r4-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\8s6uygqzlz-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\xwcsw4n32w-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\cxjin8rca9-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\d16wpf9n6f-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\mwmpi7qzot-{0}-r3b8x9gei2-r3b8x9gei2.gz
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\rq2ykvyi81-{0}-r3b8x9gei2-r3b8x9gei2.gz
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\nkmTH2lab4.csproj.Up2Date
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\nkmTH2lab4.dll
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\refint\nkmTH2lab4.dll
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\nkmTH2lab4.pdb
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\nkmTH2lab4.genruntimeconfig.cache
+C:\Users\admin\Desktop\lab1\nkmTH2lab4\lab1\obj\Debug\net10.0\ref\nkmTH2lab4.dll
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\bin\Debug\net10.0\appsettings.json
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\bin\Debug\net10.0\nkmTH2lab4.staticwebassets.endpoints.json
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\bin\Debug\net10.0\nkmTH2lab4.staticwebassets.runtime.json
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\bin\Debug\net10.0\nkmTH2lab4.exe
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\bin\Debug\net10.0\nkmTH2lab4.deps.json
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\bin\Debug\net10.0\nkmTH2lab4.runtimeconfig.json
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\bin\Debug\net10.0\nkmTH2lab4.dll
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\bin\Debug\net10.0\nkmTH2lab4.pdb
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\bin\Debug\net10.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\bin\Debug\net10.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\bin\Debug\net10.0\System.Drawing.Common.dll
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\bin\Debug\net10.0\System.Runtime.Caching.dll
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\bin\Debug\net10.0\System.Security.Permissions.dll
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\bin\Debug\net10.0\System.Windows.Extensions.dll
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\bin\Debug\net10.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\bin\Debug\net10.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\bin\Debug\net10.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\bin\Debug\net10.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\bin\Debug\net10.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\bin\Debug\net10.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\bin\Debug\net10.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\bin\Debug\net10.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\bin\Debug\net10.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\nkmTH2lab4.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\nkmTH2lab4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\nkmTH2lab4.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\nkmTH2lab4.AssemblyInfo.cs
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\nkmTH2lab4.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\nkmTH2lab4.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\nkmTH2lab4.RazorAssemblyInfo.cache
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\nkmTH2lab4.RazorAssemblyInfo.cs
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\scopedcss\bundle\nkmTH2lab4.styles.css
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\scopedcss\projectbundle\nkmTH2lab4.bundle.scp.css
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\fd0it0wp7k-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\0tf8472xq2-{0}-mf45fbw2f4-mf45fbw2f4.gz
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\2x97cd5bzs-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\xximf6rra9-{0}-dqle62frat-dqle62frat.gz
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\l15xrdnp67-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\mhkao9gslz-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\l2kyyzfdek-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\uqaqoo24ma-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\ub86bh51ld-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\9jckiqqvbs-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\460o9dmet6-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\a74fpbebh0-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\y1eu1u8gco-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\i6ygxoixqo-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\gdtaxrt8rf-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\hrf37yw39c-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\b4do23r7fw-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\pbnukxgfcx-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\tm956oj0a0-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\pqzdydbeqs-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\4fc6fhko2r-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\zwigdam7q0-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\7q7pxo90gf-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\g8agr3iw00-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\euja78ffqf-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\q90pbgmr1f-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\938449lcaq-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\5enk2jf7jl-{0}-06098lyss8-06098lyss8.gz
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\voccp0w617-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\vprk4hnyfl-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\raq9iwcoht-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\9ov7anz47x-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\l613ogjbfm-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\c0cf76m3n5-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\r160zeuumg-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\zzzerk1zdn-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\4laou6g9f8-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\mvgsg4duzs-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\pdmzdmm1py-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\r03t1mp1bc-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\6e5mvrx7fa-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\p47bu4j328-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\fe2vmmf8b5-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\6dvvuq6ydh-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\7azuljswh6-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\jx9u2u7exj-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\24zpvgsofn-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\r83hf64c02-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\ghx4imjffu-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\5qznfjfxbe-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\guvwgl0c4r-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\niapf3nykg-{0}-356vix0kms-356vix0kms.gz
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\wfdti3bu6q-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\h6lzxjw9dt-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\ink4seq9s7-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\z7jr3yt316-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\7hupcfs0s0-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\8ofnv4hncg-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\t7z4hxyx95-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\r9571k74r4-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\8s6uygqzlz-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\xwcsw4n32w-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\cxjin8rca9-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\d16wpf9n6f-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\mwmpi7qzot-{0}-r3b8x9gei2-r3b8x9gei2.gz
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\rq2ykvyi81-{0}-r3b8x9gei2-r3b8x9gei2.gz
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\nkmTH2lab4.csproj.Up2Date
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\nkmTH2lab4.dll
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\refint\nkmTH2lab4.dll
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\nkmTH2lab4.pdb
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\nkmTH2lab4.genruntimeconfig.cache
+C:\Users\admin\Desktop\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\ref\nkmTH2lab4.dll
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\bin\Debug\net10.0\appsettings.json
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\bin\Debug\net10.0\nkmTH2lab4.staticwebassets.runtime.json
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\bin\Debug\net10.0\nkmTH2lab4.staticwebassets.endpoints.json
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\bin\Debug\net10.0\nkmTH2lab4.exe
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\bin\Debug\net10.0\nkmTH2lab4.deps.json
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\bin\Debug\net10.0\nkmTH2lab4.runtimeconfig.json
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\bin\Debug\net10.0\nkmTH2lab4.dll
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\bin\Debug\net10.0\nkmTH2lab4.pdb
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\bin\Debug\net10.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\bin\Debug\net10.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\bin\Debug\net10.0\System.Drawing.Common.dll
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\bin\Debug\net10.0\System.Runtime.Caching.dll
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\bin\Debug\net10.0\System.Security.Permissions.dll
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\bin\Debug\net10.0\System.Windows.Extensions.dll
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\bin\Debug\net10.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\bin\Debug\net10.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\bin\Debug\net10.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\bin\Debug\net10.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\bin\Debug\net10.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\bin\Debug\net10.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\bin\Debug\net10.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\bin\Debug\net10.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\bin\Debug\net10.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\nkmTH2lab4.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\nkmTH2lab4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\nkmTH2lab4.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\nkmTH2lab4.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\nkmTH2lab4.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\nkmTH2lab4.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\nkmTH2lab4.RazorAssemblyInfo.cache
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\nkmTH2lab4.RazorAssemblyInfo.cs
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\scopedcss\bundle\nkmTH2lab4.styles.css
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\scopedcss\projectbundle\nkmTH2lab4.bundle.scp.css
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\1ybzd5ozm0-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\jbbmyv10vp-{0}-mf45fbw2f4-mf45fbw2f4.gz
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\9p5oynx5e1-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\7xh1u948bx-{0}-dqle62frat-dqle62frat.gz
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\o74bhaoob7-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\z5a0fdd1t2-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\e5t7qeqy6l-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\bckup9qr80-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\eljsf0dlca-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\6b1ysg6rzm-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\bzuc4kte1z-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\v1lekrznwt-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\x4tvwr6x6w-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\drpxkilrx7-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\dre5mj4207-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\by2qyuwhss-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\6rqq59jlti-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\rq9ijd7czp-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\z8zards2so-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\c4c26vuu30-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\gvfhf6ctbb-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\m19imca4zx-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\e5vqcl5vtw-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\j8likg7w9t-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\6v0w16mzn7-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\w3b5j92tj5-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\vnhsyvgql6-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\4wvnsl3b8o-{0}-06098lyss8-06098lyss8.gz
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\nteth2yo2z-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\0pd2sb94da-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\hmy59ivi6b-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\lggg9831a8-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\oc2cp2oa2b-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\70qny4b49h-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\07ykijhw0t-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\94jzmkrqm6-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\y9d6qxyjw4-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\ktf8icrd5n-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\98xg4evtit-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\mi7fbei1n6-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\va1y5dn1de-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\pkl26gkiv0-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\rk0ob9zln0-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\nk0bnkkdvw-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\0trnietb0q-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\2sdrz3p4ga-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\mf2ttsvk7f-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\uflutk8ebc-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\yvv3pbgfjv-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\wrgasvca8v-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\zq0pgzoghr-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\oq71o11fpo-{0}-356vix0kms-356vix0kms.gz
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\ivi013urqu-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\3effz0r71w-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\ewy89h83p1-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\met6k3kc96-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\votrk3kbvu-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\lbyuineody-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\9pse7rhc50-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\5h4835qk3a-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\l870bhnsgx-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\b9fw259qdi-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\ylohjiicbk-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\8ed35rd91x-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\e4b5nzt8f9-{0}-r3b8x9gei2-r3b8x9gei2.gz
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\compressed\3hroh7ng0t-{0}-r3b8x9gei2-r3b8x9gei2.gz
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\nkmTH2lab4.csproj.Up2Date
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\nkmTH2lab4.dll
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\refint\nkmTH2lab4.dll
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\nkmTH2lab4.pdb
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\nkmTH2lab4.genruntimeconfig.cache
+C:\Users\ADMIN\Downloads\nkmTH2lab4 (1)\nkmTH2lab4\nkmTH2lab4\lab1\obj\Debug\net10.0\ref\nkmTH2lab4.dll
