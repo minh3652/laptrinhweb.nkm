@@ -1,0 +1,14 @@
+@model IEnumerable<nkmTH3lab5.Models.Major>
+
+<ul class="nav nav-pills mb-3" id="major-filter-nav">
+    <li class="nav-item" id="0" style="cursor: pointer;">
+        <a class="nav-link active">Tất cả</a>
+    </li>
+    @foreach (var m in Model)
+    {
+        <li class="nav-item" id="@m.MajorID" style="cursor: pointer;">
+            <a class="nav-link">@m.MajorName</a>
+        </li>
+    }
+</ul>
+

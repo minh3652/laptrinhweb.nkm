@@ -1,0 +1,43 @@
+﻿{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": ".NET Core Launch (web)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/nkmTH3lab5/lab1/bin/Debug/net10.0/nkmTH3lab5.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/nkmTH3lab5/lab1",
+            "stopAtEntry": false,
+            "serverReadyAction": {
+                "action": "openUrl",
+                "pattern": "\\bNow listening on:\\s+(https?://\\S+)",
+                "uriFormat": "%s/Admin/Student/List"
+            },
+            "env": {
+                "ASPNETCORE_ENVIRONMENT": "Development"
+            },
+            "sourceFileMap": {
+                "/Views": "${workspaceFolder}/nkmTH3lab5/lab1/Views"
+            }
+        },
+        {
+            "name": "C#: Launch nkmTH3lab5",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}/nkmTH3lab5/lab1/nkmTH3lab5.csproj",
+            "launchBrowser": {
+                "enabled": true,
+                "args": "${auto-target-window} http://localhost:5141/Admin/Student/List",
+                "windows": {
+                    "command": "cmd.exe",
+                    "args": "/C start ${auto-target-window} http://localhost:5141/Admin/Student/List"
+                }
+            },
+            "applicationUrl": "http://localhost:5141",
+            "preLaunchTask": "build"
+        }
+    ]
+}
+

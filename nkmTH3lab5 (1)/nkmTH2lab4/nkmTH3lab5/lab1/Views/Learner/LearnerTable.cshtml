@@ -1,0 +1,40 @@
+@model IEnumerable<nkmTH3lab5.Models.Learner>
+
+<table class="table table-striped table-bordered align-middle">
+    <thead class="table-light">
+        <tr>
+            <th>Mã</th>
+            <th>Tên</th>
+            <th>Họ</th>
+            <th>Ngành</th>
+            <th>Ngày Nhập Học</th>
+            <th>Chức năng</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null && Model.Any())
+        {
+            @foreach (var s in Model)
+            {
+                <tr>
+                    <td>@s.LearnerID</td>
+                    <td>@s.FirstMidName</td>
+                    <td>@s.LastName</td>
+                    <td>@s.Major?.MajorName</td>
+                    <td>@s.EnrollmentDate.ToString("dd/MM/yyyy")</td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@s.LearnerID" class="btn btn-sm btn-outline-warning">Edit</a> |
+                        <a asp-action="Delete" asp-route-id="@s.LearnerID" class="btn btn-sm btn-outline-danger">Delete</a>
+                    </td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="6" class="text-center text-muted">Không có người học nào trong chuyên ngành này.</td>
+            </tr>
+        }
+    </tbody>
+</table>
+

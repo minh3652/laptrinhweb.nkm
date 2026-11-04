@@ -1,0 +1,55 @@
+@{
+    ViewData["Title"] = "Learner List";
+    Layout = "~/Views/Shared/MyLayout.cshtml";
+}
+@model IEnumerable<nkmTH3lab5.Models.Learner>
+
+<div class="container-fluid px-4">
+    <h1 class="mt-4">Learner List</h1>
+    <ol class="breadcrumb mb-4">
+        <li class="breadcrumb-item"><a href="/">Dashboard</a></li>
+        <li class="breadcrumb-item active">Learners</li>
+    </ol>
+
+    <!-- Hiển thị danh sách chuyên ngành Major bằng ViewComponent (Bài thực hành 5) -->
+    @await Component.InvokeAsync("Major")
+
+    <div class="card mb-4 mt-3">
+        <div class="card-header">
+            <i class="fas fa-table me-1"></i>
+            Danh sách người học
+        </div>
+        <div class="card-body">
+            <div class="mb-3">
+                <a asp-action="Create" class="btn btn-primary">Create New Student</a>
+            </div>
+
+            <!-- Vùng hiển thị kết quả lọc AJAX -->
+            <div id="content">
+                <partial name="LearnerTable" model="Model" />
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        $("li.nav-item").click(function (e) {
+            var id = $(this).attr("id");
+            if (id !== undefined && id !== "") {
+                $("#major-filter-nav li.nav-item a").removeClass("active");
+                $(this).find("a").addClass("active");
+                $.ajax({
+                    url: "/Learner/LearnerByMajorID",
+                    data: { mid: id },
+                    success: function (response) {
+                        $("div#content").html(response);
+                    },
+                    error: function (xhr, status, error) {
+                        console.error("AJAX Error: ", error);
+                    }
+                });
+            }
+        });
+    </script>
+}
