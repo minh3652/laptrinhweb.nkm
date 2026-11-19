@@ -1,0 +1,27 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model IEnumerable<nguyenkhacminh__241224482_de2026.Models.Sach>
+<div class="Container">
+    <h2>Nguyen Khac Minh</h2>
+    <table class="table table-bordered">
+        <thead>
+            <tr>    
+                <th>Mã Sách</th>
+                <th>Tên Sách</th>
+                <th>Giá</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                 <tr>
+                     <td>@item.MaSach</td>
+                    <td>@item.TenSach</td>
+                    <td>@item.Gia</td>
+                 </tr>   
+            }
+        </tbody>
+    </table>

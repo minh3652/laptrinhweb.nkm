@@ -1,0 +1,25 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model IEnumerable<nguyenkhacminh__241224482_de2026.Models.Sach>
+<h2>@ViewBag.TenTheLoai</h2>
+<div class="row">
+    @foreach (var item in Model)
+    {
+        <div class='col-md-3'>
+            <div class="card mb-3">
+                    @if (!string.IsNullOrEmpty(item.Anh))
+
+                {
+                      <img src="~/images/@item.Anh" class="card-img-top" />
+                }
+                <div class="card-body">
+                    <h5>@item.TenSach   </h5>
+                    <p>Gia: @item.Gia </p>
+                </div>
+            </div>
+        </div>
+    }
+</div>
