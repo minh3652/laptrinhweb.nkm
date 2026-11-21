@@ -1,4 +1,4 @@
-﻿@inject nguyenkhacminh241224482_de1.Models.QLTaiSanContext _context
+@inject nguyenkhacminh241224482_de1.Models.QLTaiSanContext _context
 @{
     var loaiTaiSans = _context.LoaiTaiSans.OrderBy(l => l.MaLoai).ToList();
     var tongTaiSan = _context.TaiSans.Count();
