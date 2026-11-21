@@ -1,0 +1,59 @@
+﻿@model IEnumerable<nguyenkhacminh241224482_de1.Models.TaiSan>
+
+@{
+    ViewData["Title"] = "Trang chủ";
+}
+
+<!-- Begin Main Content -->
+<main class="main">
+    <div class="container">
+        <!-- Banner -->
+        <div class="banner">
+            <img src="~/images/banner.jpg" alt="Banner" />
+        </div>
+
+        <!-- Tiêu đề khu vực nội dung (Câu 3: Thay bằng họ tên sinh viên) -->
+        <div class="section-head">
+            <h3 id="section-title">NGUYỄN KHẮC MINH</h3>
+        </div>
+
+        <!-- Khung hiển thị danh sách tài sản (AJAX load trong Câu 4) -->
+        <div id="main-content-area">
+            @await Html.PartialAsync("nguyenkhacminh_MainContent", Model)
+        </div>
+    </div>
+</main>
+<!-- End Main Content -->
+
+@section Scripts {
+    <script>
+        $(function () {
+            // Câu 4: Xử lý click thanh điều hướng theo cơ chế AJAX
+            $(document).on('click', '.nav-loai', function (e) {
+                e.preventDefault();
+
+                var $this = $(this);
+                var maLoai = $this.data('id');
+                var tenLoai = $this.data('name');
+
+                // Đổi trạng thái active trên navbar
+                $('#main-menu li').removeClass('active');
+                $this.closest('li').addClass('active');
+
+                // Gọi AJAX lấy danh sách tài sản mà không tải lại toàn bộ trang
+                $.ajax({
+                    url: '@Url.Action("GetTaiSanByLoai", "Home")',
+                    type: 'GET',
+                    data: { maLoai: maLoai },
+                    success: function (result) {
+                        $('#main-content-area').html(result);
+                        $('#section-title').text(tenLoai);
+                    },
+                    error: function () {
+                        alert('Không thể tải danh sách tài sản. Vui lòng thử lại!');
+                    }
+                });
+            });
+        });
+    </script>
+}

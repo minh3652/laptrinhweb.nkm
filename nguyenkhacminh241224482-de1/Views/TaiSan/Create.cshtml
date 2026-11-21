@@ -1,0 +1,70 @@
+@model nguyenkhacminh241224482_de1.Models.TaiSan
+
+@{
+    ViewData["Title"] = "Thêm Tài sản mới";
+}
+
+<main class="main">
+    <div class="container" style="display: flex; justify-content: center; align-items: center; padding: 40px 0;">
+        <div style="background: #fff; width: 100%; max-width: 650px; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.08); padding: 35px 40px;">
+            <h2 style="color: #1d3f72; font-size: 20px; font-weight: 700; text-transform: uppercase; margin-bottom: 25px;">
+                THÊM TÀI SẢN MỚI
+            </h2>
+
+            <form asp-controller="TaiSan" asp-action="Create" method="post">
+                @Html.AntiForgeryToken()
+
+                <!-- Loại tài sản -->
+                <div style="display: flex; align-items: flex-start; margin-bottom: 18px;">
+                    <label asp-for="MaLoai" style="width: 160px; font-size: 14px; font-weight: 600; color: #2b3a42; padding-top: 8px;">Loại tài sản</label>
+                    <div style="flex: 1;">
+                        <select asp-for="MaLoai" asp-items="ViewBag.MaLoai" style="width: 100%; padding: 8px 12px; border: 1px solid #c5d3d8; border-radius: 4px; font-size: 14px; outline: none; background: #fff;">
+                        </select>
+                        <span asp-validation-for="MaLoai" style="color: #d9531e; font-size: 13px; display: block; margin-top: 4px;"></span>
+                    </div>
+                </div>
+
+                <!-- Tên tài sản -->
+                <div style="display: flex; align-items: flex-start; margin-bottom: 18px;">
+                    <label asp-for="TenTs" style="width: 160px; font-size: 14px; font-weight: 600; color: #2b3a42; padding-top: 8px;">Tên tài sản</label>
+                    <div style="flex: 1;">
+                        <input asp-for="TenTs" type="text" placeholder="Nhập tên tài sản..." style="width: 100%; padding: 8px 12px; border: 1px solid #c5d3d8; border-radius: 4px; font-size: 14px; outline: none;" />
+                        <span asp-validation-for="TenTs" style="color: #d9531e; font-size: 13px; display: block; margin-top: 4px;"></span>
+                    </div>
+                </div>
+
+                <!-- Nguyên giá (triệu) -->
+                <div style="display: flex; align-items: flex-start; margin-bottom: 18px;">
+                    <label asp-for="NguyenGia" style="width: 160px; font-size: 14px; font-weight: 600; color: #2b3a42; padding-top: 8px;">Nguyên giá (triệu)</label>
+                    <div style="flex: 1;">
+                        <input asp-for="NguyenGia" type="number" step="any" placeholder="Nhập nguyên giá (1 - 2000)..." style="width: 100%; padding: 8px 12px; border: 1px solid #c5d3d8; border-radius: 4px; font-size: 14px; outline: none;" />
+                        <span asp-validation-for="NguyenGia" style="color: #d9531e; font-size: 13px; display: block; margin-top: 4px;"></span>
+                    </div>
+                </div>
+
+                <!-- Tên file ảnh -->
+                <div style="display: flex; align-items: flex-start; margin-bottom: 24px;">
+                    <label asp-for="Anh" style="width: 160px; font-size: 14px; font-weight: 600; color: #2b3a42; padding-top: 8px;">Tên file ảnh</label>
+                    <div style="flex: 1;">
+                        <input asp-for="Anh" type="text" placeholder="Ví dụ: Img_1.jpg" style="width: 100%; padding: 8px 12px; border: 1px solid #c5d3d8; border-radius: 4px; font-size: 14px; outline: none;" />
+                        <span asp-validation-for="Anh" style="color: #d9531e; font-size: 13px; display: block; margin-top: 4px;"></span>
+                    </div>
+                </div>
+
+                <!-- Nút Submit -->
+                <div style="display: flex; align-items: center; margin-left: 160px;">
+                    <button type="submit" class="btn-buy" style="background: #1d3f72; color: #fff; padding: 9px 28px; border: none; border-radius: 4px; font-size: 14px; font-weight: 600; cursor: pointer;">
+                        Create
+                    </button>
+                    <a asp-controller="Home" asp-action="Index" style="margin-left: 15px; font-size: 14px; color: #666; text-decoration: underline;">
+                        Quay lại
+                    </a>
+                </div>
+            </form>
+        </div>
+    </div>
+</main>
+
+@section Scripts {
+    @await Html.PartialAsync("_ValidationScriptsPartial")
+}
