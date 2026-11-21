@@ -1,0 +1,41 @@
+@inject nguyenkhacminh_241224482_de2.Models.QLTaiSanContext _context
+@{
+    var loaiTaiSans = _context.LoaiTaiSans.OrderBy(l => l.MaLoai).ToList();
+    var tongTaiSan = _context.TaiSans.Count();
+    var tongNguyenGia = _context.TaiSans.Sum(t => t.NguyenGia ?? 0);
+}
+<!-- Begin Header -->
+<header class="header">
+    <div class="topbar">
+        <div class="container">
+            <span>Phòng Hành chính - Quản trị: <b>(024) 3999 8888</b> &nbsp;|&nbsp; Hỗ trợ: taisan@assethub.vn</span>
+            <span>Xin chào, Quản trị viên &nbsp;|&nbsp; Đăng xuất</span>
+        </div>
+    </div>
+    <div class="header-main">
+        <div class="container">
+            <a asp-controller="Home" asp-action="Index"><img src="~/images/logo.png" alt="AssetHub" /></a>
+            <div class="cart-box">Tổng tài sản: @tongTaiSan - Nguyên giá: @string.Format("{0:N0}", tongNguyenGia) triệu</div>
+        </div>
+    </div>
+    <nav class="navbar">
+        <div class="container">
+            <ul class="menu" id="main-menu">
+                <li class="active">
+                    <a href="javascript:void(0)" class="nav-loai" data-id="0" data-name="NGUYỄN KHẮC MINH">NGUYỄN KHẮC MINH</a>
+                </li>
+                @foreach (var loai in loaiTaiSans)
+                {
+                    <li>
+                        <a href="javascript:void(0)" class="nav-loai" data-id="@loai.MaLoai" data-name="@loai.TenLoai.ToUpper()">@loai.TenLoai.ToUpper()</a>
+                    </li>
+                }
+            </ul>
+            <form class="search-box">
+                <input type="text" placeholder="Tìm tài sản..." />
+                <button type="button">Tìm</button>
+            </form>
+        </div>
+    </nav>
+</header>
+<!-- End Header -->

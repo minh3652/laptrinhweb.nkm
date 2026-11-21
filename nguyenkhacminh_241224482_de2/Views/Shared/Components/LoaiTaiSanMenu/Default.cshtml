@@ -1,0 +1,16 @@
+@model IEnumerable<nguyenkhacminh_241224482_de2.Models.LoaiTaiSan>
+
+<ul class="menu" id="main-menu">
+    <li class="active">
+        <a href="javascript:void(0)" class="nav-loai" data-id="0" data-name="NGUYỄN KHẮC MINH">NGUYỄN KHẮC MINH</a>
+    </li>
+    @if (Model != null)
+    {
+        @foreach (var loai in Model)
+        {
+            <li>
+                <a href="javascript:void(0)" class="nav-loai" data-id="@loai.MaLoai" data-name="@loai.TenLoai.ToUpper()">@loai.TenLoai.ToUpper()</a>
+            </li>
+        }
+    }
+</ul>

@@ -1,0 +1,68 @@
+@model IEnumerable<nguyenkhacminh_241224482_de2.Models.TaiSan>
+
+@{
+    ViewData["Title"] = "Trang chủ";
+}
+
+<!-- Begin Main Content -->
+<main class="main">
+    <div class="container">
+        <!-- Banner -->
+        <div class="banner">
+            <img src="~/images/banner.jpg" alt="Banner" />
+        </div>
+
+        <!-- Tiêu đề khu vực nội dung (Câu 3: Thay bằng họ tên sinh viên) -->
+        <div class="section-head">
+            <h3 id="section-title">@(ViewBag.SectionTitle ?? "NGUYỄN KHẮC MINH")</h3>
+        </div>
+
+        <!-- Khung hiển thị danh sách tài sản (AJAX load trong Câu 4) -->
+        <div id="main-content-area">
+            @await Html.PartialAsync("nguyenkhacminh_MainContent", Model)
+        </div>
+    </div>
+</main>
+<!-- End Main Content -->
+
+@section Scripts {
+    <script>
+        $(function () {
+            // Đặt active tab ban đầu nếu có maLoai trên query
+            var currentMaLoai = @((ViewBag.CurrentMaLoai != null) ? ViewBag.CurrentMaLoai : 0);
+            if (currentMaLoai > 0) {
+                $('#main-menu li').removeClass('active');
+                $('#main-menu li a[data-id="' + currentMaLoai + '"]').closest('li').addClass('active');
+            }
+
+            // Câu 4: Kích vào từng mục trong thanh điều hướng, danh sách TaiSan thuộc loại đó
+            // sẽ được lọc và hiển thị trong phần main content theo cơ chế AJAX
+            // (không tải lại toàn bộ trang; tiêu đề khu vực nội dung đổi thành tên loại tài sản được chọn)
+            $(document).on('click', '.nav-loai', function (e) {
+                e.preventDefault();
+
+                var $this = $(this);
+                var maLoai = $this.data('id');
+                var tenLoai = $this.data('name');
+
+                // Đổi trạng thái active trên navbar
+                $('#main-menu li').removeClass('active');
+                $this.closest('li').addClass('active');
+
+                // Gọi AJAX lấy danh sách tài sản
+                $.ajax({
+                    url: '@Url.Action("GetTaiSanByLoai", "Home")',
+                    type: 'GET',
+                    data: { maLoai: maLoai },
+                    success: function (result) {
+                        $('#main-content-area').html(result);
+                        $('#section-title').text(tenLoai);
+                    },
+                    error: function () {
+                        alert('Không thể tải danh sách tài sản. Vui lòng thử lại!');
+                    }
+                });
+            });
+        });
+    </script>
+}

@@ -1,0 +1,27 @@
+@model IEnumerable<nguyenkhacminh_241224482_de2.Models.TaiSan>
+
+<div class="grid" id="asset-grid">
+    @if (Model != null && Model.Any())
+    {
+        @foreach (var item in Model)
+        {
+            <div class="asset-card">
+                <a href="#"><img src="~/images/@item.Anh" alt="@item.TenTs" /></a>
+                <h2>@item.TenTs</h2>
+                <div class="asset-foot">
+                    <span class="price">@(item.NguyenGia.HasValue ? Convert.ToInt64(item.NguyenGia.Value).ToString() : "") tr</span>
+                    <div style="display:flex;gap:6px;">
+                        <a asp-controller="Home" asp-action="Edit" asp-route-id="@item.MaTs" class="btn-buy" style="text-decoration:none;">Sửa</a>
+                        <button class="btn-buy" type="button">Chi tiết</button>
+                    </div>
+                </div>
+            </div>
+        }
+    }
+    else
+    {
+        <p style="grid-column: 1 / -1; text-align: center; padding: 40px; font-style: italic; color: #666;">
+            Không có tài sản nào thuộc danh mục này.
+        </p>
+    }
+</div>
