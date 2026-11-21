@@ -1,0 +1,51 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+	<meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Nguyenkhacminh - online store </title>
+	<link href="~/css/style.css" rel="stylesheet" type="text/css"  />
+</head>
+<body>
+    <div class="wrap">
+        @await Html.PartialAsync("nguyenkhacminh_Header", ViewBag.LoaiHangs as IEnumerable<NguyenKhacMinh_241224482_de2023.Models.LoaiHang>)
+        @RenderBody()
+    </div>
+    @await Html.PartialAsync("nguyenkhacminh_Footer")
+
+<script>
+    document.addEventListener("click", function (e) {
+        const link = e.target.closest(".loc-loai-hang");
+
+        if (!link) return;
+
+        e.preventDefault();
+
+        const url = link.getAttribute("href");
+
+        fetch(url)
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error("Không thể tải danh sách hàng hóa");
+                }
+
+                return response.text();
+            })
+            .then(html => {
+                document.getElementById("main-content").innerHTML = html;
+
+                document.querySelectorAll(".menu li")
+                    .forEach(li => li.classList.remove("active"));
+
+                link.parentElement.classList.add("active");
+            })
+            .catch(error => {
+                console.error(error);
+                alert("Có lỗi khi tải danh sách hàng hóa!");
+            });
+    });
+</script>
+
+</body>
+</html>
